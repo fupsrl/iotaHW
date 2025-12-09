@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=3-6437285-0
+PartCategory=Connector
+PackageCategory=Other
+PinCount=36
+Version=2.8
+Released=2019-10-24 16:12:37
+Downloaded=2025-11-03 21:09:10
+3D=Y

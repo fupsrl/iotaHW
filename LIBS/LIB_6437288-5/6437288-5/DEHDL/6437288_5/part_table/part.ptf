@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '6437288_5'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "6437288-5" (!) = "", "64372885", "Other", "571-6437288-5", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/6437288-5?qs=%252BJ%252BJwDEtia05lDPtXdOuzw%3D%3D", "Body Features: Primary Product Color Black | Configuration Features: Number of Signal Positions 60 | Number of Rows 4 | Number of Positions 60 | PCB Mount Orientation Horizontal | Number of Sections 2 | Contact Features: Contact Mating Area Plating Material Gold | Mating Pin Diameter .039 INCH | Mating Pin Diameter 1 MM | Contact Size 1mm | Contact Type Pin | Dimensions: Connector Width 78 MM | Connector Length 1.437 INCH | Profile Height from PCB 27.9 MM | Connector Width 3.071 INCH | Profile Height from P", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773950-7&DocType=Data%20Sheet&DocLang=English&PartCntxt=6437288-5&DocFormat=pdf", "27.9 mm"
+END_PART
+
+END.

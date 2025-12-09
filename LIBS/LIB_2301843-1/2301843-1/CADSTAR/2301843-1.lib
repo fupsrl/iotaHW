@@ -1,0 +1,17 @@
+.2301843-1 :1 ;Body Features: Primary Product Color Black | Connector Profile Standard | Configuration Features: Number of Positions 9 | PCB Mount Orientation Right Angle | Number of Rows 2 | Contact Features: Contact Current Rating (Max) 2 AMP | Contact Shape & Form Round | Dimensions: Row-to-Row Spacing 2.84 MM | Row-to-Row Spacing .111 INCH | Housing Features: Centerline (Pitch) 2.77 MM | Centerline (Pitch) .109 INCH | Housing Material PBT GF | Mechanical Attachment: PCB Mount Retention Type Boardlock | Mating Retentio
+"23018431"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=MH1 11=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="MH1" 11="MH2"
+*MXP 11
+*DFN 2301843-1
+~!Mouser Part Number (571-2301843-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2301843-1?qs=rrS6PyfT74crws9wAQVNoA%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (2301843-1)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/2301843-1.pdf)
+~!Height (13.955mm)
+~!3D_Model (2301843-1)
+"2301843-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

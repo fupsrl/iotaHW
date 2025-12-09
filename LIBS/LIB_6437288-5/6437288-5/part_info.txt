@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=6437288-5
+PartCategory=Connector
+PackageCategory=Other
+PinCount=63
+Version=3.3
+Released=2018-12-26 09:32:21
+Downloaded=2025-11-03 21:24:52
+3D=Y

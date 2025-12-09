@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LD09S13A4GX00LF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "LD09S13A4GX00LF" (!) = "", "LD09S13A4GX00LF", "Other", "", "", "D-Subminiature Economy Range, Input Output Connectors, Signal 9 way Socket Right Angle, Solder Europe standard, 50 cycles, Harpoons + Threaded Insert UNC 4 - 40 + Elec cont., 1.6 mm PCB thickness", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10130913.pdf", "13.86 mm"
+END_PART
+
+END.

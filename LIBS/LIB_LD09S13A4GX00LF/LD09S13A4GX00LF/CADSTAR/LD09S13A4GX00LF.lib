@@ -1,0 +1,16 @@
+.LD09S13A4GX00LF :1 ;D-Subminiature Economy Range, Input Output Connectors, Signal 9 way Socket Right Angle, Solder Europe standard, 50 cycles, Harpoons + Threaded Insert UNC 4 - 40 + Elec cont., 1.6 mm PCB thickness
+LD09S13A4GX00LF
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="MH1" 11="MH2"
+*MXP 11
+*DFN LD09S13A4GX00LF
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Amphenol Communications Solutions)
+~!Manufacturer_Part_Number (LD09S13A4GX00LF)
+~!Link Datasheet (https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10130913.pdf)
+~!Height (13.86mm)
+~!3D_Model (LD09S13A4GX00LF)
+LD09S13A4GX00LF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

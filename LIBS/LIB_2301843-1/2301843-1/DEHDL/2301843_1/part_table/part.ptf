@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2301843_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2301843-1" (!) = "", "23018431", "Other", "571-2301843-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2301843-1?qs=rrS6PyfT74crws9wAQVNoA%3D%3D", "Body Features: Primary Product Color Black | Connector Profile Standard | Configuration Features: Number of Positions 9 | PCB Mount Orientation Right Angle | Number of Rows 2 | Contact Features: Contact Current Rating (Max) 2 AMP | Contact Shape & Form Round | Dimensions: Row-to-Row Spacing 2.84 MM | Row-to-Row Spacing .111 INCH | Housing Features: Centerline (Pitch) 2.77 MM | Centerline (Pitch) .109 INCH | Housing Material PBT GF | Mechanical Attachment: PCB Mount Retention Type Boardlock | Mating Retentio", "https://componentsearchengine.com/Datasheets/2/2301843-1.pdf", "13.955 mm"
+END_PART
+
+END.
